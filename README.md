@@ -10,3 +10,5 @@ I was finally able to run my code with a file size of over a gigabyte by utilizi
 Trying to decrypt a phrase based on the letter frequency did not prove successful. I tried to replace E,F, and R with E, R, and I respectfully and none of these were correct nor made the phrase any more coherent. 
 
 This encryption method is more secure than using substitution ciphers or Caesar cipher.
+
+March 2021
